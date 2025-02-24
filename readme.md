@@ -8,7 +8,7 @@
 
 #### Iniciale el la carpeta usando "Git Init"
 
-![Imagen no existe](./img/gitinit.png "Creando carpeta")
+![Imagen no existe](./img/git%20init.png "Creando carpeta")
 
 ### _Cree un archivo Readme.md que es en donde estas viendo esta informacion_
 
@@ -16,7 +16,31 @@
 
 ![Imagen no existe](./img/addystatus.png "Creando carpeta")
 
-#### Agregar archivos y para verlos en el staging area. 
+#### Con los archivos agregados vamos a a hacer un commit para actualizar  
 
-![Imagen no existe](./img/addystatus.png "Creando carpeta")
+![Imagen no existe](./img/commit.png "Creando carpeta")
 
+#### Ahora vamos a hacer el push pero arroja error 
+
+![Imagen no existe](./img/errorpush.png "Creando carpeta")
+
+Este error en particular se genera porque no estamos haciendo push a nada. 
+
+Debemos crear un reporsitorio en GITHUB y lo conectamos. 
+
+- #### Crear repo01 en github
+
+![Imagen no existe](./img/nuevorepogit.png "Creando carpeta")
+
+-Conectar tu carpeta local con repositorio en GitHub esto se logra usando el los comandos. 
+
+
+* git remote add origin https://github.com/LuisVanegasCOL/repo01.git
+
+* git branch -M main <!--Esto para cambiar el nombre de Master a main -->
+* git push -u origin main 
+
+- - -
+- #### Ya teniendo conectado el repositorio local con el de GitHub se puede hacer el push sin problemas
+
+![Imagen no existe](./img/ "Creando carpeta")
