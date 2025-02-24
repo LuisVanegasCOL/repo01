@@ -43,4 +43,4 @@ Debemos crear un reporsitorio en GITHUB y lo conectamos.
 - - -
 - #### Ya teniendo conectado el repositorio local con el de GitHub se puede hacer el push sin problemas
 
-![Imagen no existe](./img/ "Creando carpeta")
+![Imagen no existe](./img/pushexitoso.png "Creando carpeta")
