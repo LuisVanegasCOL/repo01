@@ -8,7 +8,7 @@
 
 #### Iniciale el la carpeta usando "Git Init"
 
-![Imagen no existe](./img/git%20init.png "Creando carpeta")
+![Imagen no existe](./img/gitinit.png](https://) "Creando carpeta")
 
 ### _Cree un archivo Readme.md que es en donde estas viendo esta informacion_
 
@@ -44,3 +44,7 @@ Debemos crear un reporsitorio en GITHUB y lo conectamos.
 - #### Ya teniendo conectado el repositorio local con el de GitHub se puede hacer el push sin problemas
 
 ![Imagen no existe](./img/pushexitoso.png "Creando carpeta")
+
+# FIN!!!!
+
+>“¡Lo Logramosss!🔥🔥🔥🔥”
