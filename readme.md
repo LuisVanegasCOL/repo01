@@ -8,7 +8,7 @@
 
 #### Iniciale el la carpeta usando "Git Init"
 
-![Imagen no existe](./img/gitinit.png](https://) "Creando carpeta")
+![Imagen no existe](./img/init-copia.png "Creando carpeta")
 
 ### _Cree un archivo Readme.md que es en donde estas viendo esta informacion_
 
